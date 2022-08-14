@@ -41,14 +41,14 @@ Lot 3 on the suspension coils should be seperated for further analysis.
 
 # Study Design: MechaCar vs. Competition
 Families today are looking for safe, reliable and cost efficent vehicals. Additional analysis to determine how the MechaCar compares to it's competators could analysis these variables. 
-## Metric to Test
+### Metric to Test
 * Safety Rating, Fuel Efficiency, Maintenance Costs, Price per Vehical
-## Null and Alternate Hypothesis
+### Null and Alternate Hypothesis
 * Null Hypothesis = The price per vehical, maintenance costs and fuel efficiencey of the MechaCar is similar to the price per vehical of the competators.
 * Alternative Hypothesis = The price per vehical maintenance costs, fuel efficiency of the MechaCar is significantly higher than the competators. 
 
-## Statistical Test Used
+### Statistical Test Used
 * Using an ANOVA would show wheather the differences between the safety rating, fuel efficiency, maintenance costs of the MechaCar and it's competators was statistically significant. 
 
-## Additional Data Needed
+### Additional Data Needed
 * Safety Ratings, Maintenance Cost, Fuel Efficiency and Price per vehical
